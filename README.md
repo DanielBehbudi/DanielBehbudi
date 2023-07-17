@@ -1,6 +1,6 @@
 - 👋 **Hi, I’m @DanielBehbudi**
-- 👀 _I’m interested in IT and Cooding_
-- 🌱 I’m currently learning all Time
+- 👀 _I’m interested in IT and Cooding and AI KI DI,...
+- 🌱 I’m currently learning all the Time
 - 💞️ I’m looking to collaborate on eny Channel
 - 📫 How to reach me ist Hier [;)](mbehbudi@gmail.com)
 
