@@ -20,7 +20,7 @@ Tools
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBehbudi&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBehbudi&theme=solarized-light)
 
 
 
