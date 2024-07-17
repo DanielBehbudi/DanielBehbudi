@@ -1,22 +1,40 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate Full Stack Developer from Germany</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danielbehbudi&label=Profile%20views&color=0e75b6&style=flat" alt="danielbehbudi" /> 
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/danielbehbudi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discord.gg/daniel_dci" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielbehbudi&theme=algolia" alt="danielbehbudi" /></a>
 </p>
+
+---
+
 <h2 align="left">🚀 About Me</h2>
 <p align="left">
-I am a versatile Full Stack Developer with a background in business management With experience in both frontend and backend technologies, I am dedicated to creating efficient, scalable, and user-friendly web applications.
+I am a versatile Full Stack Developer with a background in business management. Together with my wife, I co-founded <a href="https://www.qpers.de" target="_blank">Qpers GbR</a>, a company specializing in international recruitment. With experience in both frontend and backend technologies, I am dedicated to creating efficient, scalable, and user-friendly web applications.
 </p>
+
+<h2 align="left">🌟 Current Project</h2>
+<p align="left">
+  <a href="https://eventhub-five-jade.vercel.app/about" target="_blank">
+    <img src="https://via.placeholder.com/800x400.png?text=Current+Project+Image" alt="Current Project Image" style="width:100%;height:auto;">
+  </a>
+</p>
+<p align="center">
+  <a href="https://eventhub-five-jade.vercel.app/about" target="_blank"><strong>Visit the Project</strong></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/danielbehbudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel behbudi" height="30" width="40" /></a>
 <a href="https://discord.gg/daniel_dci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="daniel_dci" height="30" width="40" /></a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -71,9 +89,11 @@ I am a versatile Full Stack Developer with a background in business management W
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielbehbudi&show_icons=true&locale=en&layout=compact" alt="danielbehbudi" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielbehbudi&show_icons=true&locale=en" alt="danielbehbudi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielbehbudi&" alt="danielbehbudi" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielbehbudi&show_icons=true&locale=en" alt="danielbehbudi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielbehbudi&" alt="danielbehbudi" /></p>
