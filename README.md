@@ -26,7 +26,7 @@ I am a versatile Full Stack Developer with a background in business management. 
 </p>
 <p align="left">
  <a href="https://eventhub-five-jade.vercel.app" target="_blank">
-    <img src="https://via.placeholder.com/800x400.png?text=Current+Project+Image" alt="Current Project Image" style="width:100%;height:auto;">
+    <img src="pic/Bildschirmfoto vom 2024-07-17 12-30-08.png" alt="Current Project Image" style="width:100%;height:auto;">
   </a>
 </p>
 
