@@ -21,11 +21,11 @@ I am a versatile Full Stack Developer with a background in business management. 
 <h2 align="left">🌟 Current Project</h2>
 <p align="left">
   <a href="https://eventhub-five-jade.vercel.app" target="_blank">
-    <img src="https://via.placeholder.com/800x400.png?text=Current+Project+Image" alt="Current Project Image" style="width:100%;height:auto;">
+    <strong>Visit the Project</strong>
   </a>
 </p>
-<p align="center">
-  <a href="https://eventhub-five-jade.vercel.app" target="_blank"><strong>Visit the Project</strong></a>
+<p align="left">
+  <iframe src="https://eventhub-five-jade.vercel.app" width="100%" height="600px" style="border:none;"></iframe>
 </p>
 
 <h3 align="left">Connect with me:</h3>
