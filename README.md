@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danielbehbudi&label=Profile%20views&color=0e75b6&style=flat" alt="danielbehbudi" /> 
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/danielbehbudi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://discord.gg/daniel_dci" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
@@ -26,7 +25,7 @@ I am a versatile Full Stack Developer with a background in business management. 
   </a>
 </p>
 <p align="center">
-  <a href="https://eventhub-five-jade.vercel.app/about" target="_blank"><strong>Visit the Project</strong></a>
+  <a href="https://eventhub-five-jade.vercel.app" target="_blank"><strong>Visit the Project</strong></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
