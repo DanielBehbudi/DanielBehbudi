@@ -26,7 +26,7 @@ I am a versatile Full Stack Developer with a background in business management. 
 </p>
 <p align="left">
  <a href="https://eventhub-five-jade.vercel.app" target="_blank">
-    <img src="pic/Bildschirmfoto vom 2024-07-17 12-30-08.png" alt="Current Project Image" style="width:100%;height:auto;">
+    <img src="https://github.com/DanielBehbudi/DanielBehbudi.github.io/blob/main/pic/Bildschirmfoto%20vom%202024-07-17%2012-30-08.png" alt="Current Project Image" style="width:100%;height:auto;">
   </a>
 </p>
 
