@@ -11,7 +11,7 @@
 </p>
 <h2 align="left">🚀 About Me</h2>
 <p align="left">
-I am a versatile Full Stack Developer with a background in business management. Together with my wife, I co-founded <a href="https://www.qpers.de" target="_blank">Qpers GbR</a>, a company specializing in international recruitment. With experience in both frontend and backend technologies, I am dedicated to creating efficient, scalable, and user-friendly web applications.
+I am a versatile Full Stack Developer with a background in business management With experience in both frontend and backend technologies, I am dedicated to creating efficient, scalable, and user-friendly web applications.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
